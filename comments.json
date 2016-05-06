@@ -1,0 +1,26 @@
+[
+    {
+        "taskName": "First task!",
+        "isFinished": true
+    },
+    {
+        "taskName": "Second task!",
+        "isFinished": false
+    },
+    {
+        "taskName": "aaaa",
+        "isFinished": false
+    },
+    {
+        "taskName": "bbbbb",
+        "isFinished": false
+    },
+    {
+        "taskName": "cccccc",
+        "isFinished": false
+    },
+    {
+        "taskName": "ddd",
+        "isFinished": false
+    }
+]
